@@ -1,0 +1,24 @@
+{
+  "name": "react-weather-app",
+  "version": "1.0.0",
+  "description": "React weather app - backend part.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "server:dev": "nodemon index.js",
+    "server:prod": "node index.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Roman Sukhinin",
+    "email": "roman.developer@mail.ru"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.0",
+    "nodemon": "^2.0.20"
+  }
+}
