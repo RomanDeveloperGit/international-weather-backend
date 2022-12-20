@@ -22,7 +22,7 @@
 Клонируйте текущий репозиторий:
 
    ```bash
-      git clone https://github.com/RomanDeveloperGit/international-weather-backend
+      git clone https://github.com/RomanDeveloperGit/international-weather-backend.git
    ```
 
 Установите все зависимости:
